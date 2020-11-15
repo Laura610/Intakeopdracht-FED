@@ -69,13 +69,13 @@
 
 **Je startniveau: rood**
 
-**Je focus: surface plan** 
+**Je focus: surface plane, kan later nog veranderen want de website is niet goed responsive uitgewerkt ** 
 
-**Je opdracht: Het verbeteren van de bestaande website https://archiveofourown.org/ (site waar mensen hun eigen versies maken van bestaande verhalen/series/film scripts etc.** 
+**Je opdracht: Verbeteren van de bestaande art supply website: https://www.dekwast.nl/** 
 
 **Screenshot(s) van de eerste pagina (small screen):**
-<img src="images/Screenshot (453).png" width="375px" alt="Homepagina">
+<img src="images/Screenshot (458).png" width="375px" alt="Homepagina">
+
 
 **Screenshot(s) van de tweede pagina (small screen):**
-<img src="images/Screenshot (454).png" width="375px" alt="overzicht van geschreven works relevant aan fandom/tags">
-<img src="images/Screenshot (455).png" width="375px" alt="Dezelfde pagina^ filteroptie uitgeklapt">
+<img src="images/Screenshot (459).png" width="375px" alt="Productpagina">
