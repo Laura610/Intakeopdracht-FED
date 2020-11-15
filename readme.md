@@ -71,7 +71,7 @@
 
 **Je focus: responsive** 
 
-**Je opdracht: Stage portfolio maken: 'Chameleox Designs'** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht: Stage portfolio maken: 'Chameleox Designs'** 
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
