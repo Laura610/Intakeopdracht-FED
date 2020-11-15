@@ -75,8 +75,8 @@
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/Screenshot(453).png" width="375px" alt="Homepagina">
+<img src="images/Screenshot (453).png" width="375px" alt="Homepagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
-<img src="images/dummy-plaatje.svg" width="375px" alt="overzicht van geschreven works relevant aan fandom/tags">
-<img src="images/dummy-plaatje.svg" width="375px" alt="Dezelfde pagina^ filteroptie uitgeklapt">
+<img src="images/Screenshot (454).png" width="375px" alt="overzicht van geschreven works relevant aan fandom/tags">
+<img src="images/Screenshot (455).png" width="375px" alt="Dezelfde pagina^ filteroptie uitgeklapt">
