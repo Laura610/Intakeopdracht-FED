@@ -74,7 +74,6 @@
 **Je opdracht: Het verbeteren van de bestaande website https://archiveofourown.org/ (site waar mensen hun eigen versies maken van bestaande verhalen/series/film scripts etc.** 
 
 **Screenshot(s) van de eerste pagina (small screen):**
-
 <img src="images/Screenshot (453).png" width="375px" alt="Homepagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
