@@ -69,14 +69,14 @@
 
 **Je startniveau: rood**
 
-**Je focus: responsive** 
+**Je focus: surface plan** 
 
-**Je opdracht: Stage portfolio maken: 'Chameleox Designs'** 
+**Je opdracht: Het verbeteren van de bestaande website https://archiveofourown.org/ (site waar mensen hun eigen versies maken van bestaande verhalen/series/film scripts etc.** 
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/dummy-plaatje.svg" width="375px" alt="Homepagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
-
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/dummy-plaatje.svg" width="375px" alt="overzicht van geschreven works relevant aan fandom/tags">
+<img src="images/dummy-plaatje.svg" width="375px" alt="Dezelfde pagina^ filteroptie uitgeklapt">
